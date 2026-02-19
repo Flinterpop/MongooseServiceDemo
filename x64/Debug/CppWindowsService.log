@@ -1,0 +1,15 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ServiceInstaller.cpp
+  ServiceBase.cpp
+  SampleService.cpp
+  MainServiceLoop.cpp
+  CppWindowsService.cpp
+  Generating Code...
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  mongoose.c
+C:\source_web\MongooseServiceDemo\mongoose\mongoose.c(10403,37): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\source_web\MongooseServiceDemo\mongoose\mongoose.c(10406,35): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\source_web\MongooseServiceDemo\mongoose\mongoose.c(10553,39): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\source_web\MongooseServiceDemo\mongoose\mongoose.c(10556,35): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\source_web\MongooseServiceDemo\mongoose\mongoose.c(11002,39): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  CppWindowsService.vcxproj -> C:\source_web\MongooseServiceDemo\Debug\CppWindowsService28.exe

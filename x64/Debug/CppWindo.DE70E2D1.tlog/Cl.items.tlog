@@ -1,0 +1,6 @@
+C:\source_web\MongooseServiceDemo\CppWindowsService.cpp;C:\source_web\MongooseServiceDemo\x64\Debug\CppWindowsService.obj
+C:\source_web\MongooseServiceDemo\MainServiceLoop.cpp;C:\source_web\MongooseServiceDemo\x64\Debug\MainServiceLoop.obj
+C:\source_web\MongooseServiceDemo\mongoose\mongoose.c;C:\source_web\MongooseServiceDemo\x64\Debug\mongoose.obj
+C:\source_web\MongooseServiceDemo\SampleService.cpp;C:\source_web\MongooseServiceDemo\x64\Debug\SampleService.obj
+C:\source_web\MongooseServiceDemo\ServiceBase.cpp;C:\source_web\MongooseServiceDemo\x64\Debug\ServiceBase.obj
+C:\source_web\MongooseServiceDemo\ServiceInstaller.cpp;C:\source_web\MongooseServiceDemo\x64\Debug\ServiceInstaller.obj
